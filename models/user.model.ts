@@ -1,4 +1,4 @@
-interface user {
+interface User {
     fullName: string;
     email: string;
     role: string;
